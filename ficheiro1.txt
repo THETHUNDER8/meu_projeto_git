@@ -2,3 +2,6 @@ Um ficheiro de texto
 
 
 Fiz uma alteraçao
+
+
+ALTERAÇOES EFETUADAS NO BRANCH "NOVAFEATURE"
